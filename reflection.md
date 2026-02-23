@@ -1,0 +1,1 @@
+Harapan saya dari praktikum ini adalah dapat menguasai alur kerja CI/CD secara mendalam. Saya ingin memahami bagaimana teknologi seperti Docker dapat mempermudah pengelolaan aplikasi berskala besar dan bagaimana Git dapat digunakan secara efektif untuk kolaborasi tim dalam proyek nyata.
