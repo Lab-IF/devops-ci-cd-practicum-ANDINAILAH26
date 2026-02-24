@@ -20,3 +20,4 @@ Pada tugas ini, saya mensimulasikan terjadinya konflik antar branch dan menyeles
 
 **Bukti Branching:**
 ![GitFlow Branches](./screenshots/gitflow-branches.png)
+![Merge Conflict](./screenshots/merge-conflict-resolution.png)
