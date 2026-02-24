@@ -10,7 +10,11 @@ Pada tugas ini, saya telah mengimplementasikan alur kerja GitFlow dengan langkah
 ## Task 2: Resolve Merge Conflicts
 Pada tugas ini, saya mensimulasikan terjadinya konflik antar branch dan menyelesaikannya secara manual:
 1. **Create Conflict**: Membuat perubahan pada baris yang sama di branch `main` dan `develop`.
+<<<<<<< HEAD
 2. **Merge Trigger**: Menjalankan perintah `git merge main` saat berada di branch `develop` sehingga muncul status KONFLIK DARI DEVELOP
+=======
+2. **Merge Trigger**: Menjalankan perintah `git merge main` saat berada di branch `develop` sehingga muncul status KONFLIK DARI MAIN.
+>>>>>>> main
 3. **Resolution**: Menggunakan fitur *Merge Editor* di VS Code untuk memilih perubahan yang ingin dipertahankan (*Accept Both Changes*).
 4. **Final Commit**: Menyelesaikan proses merge dengan commit resolusi konflik.
 
